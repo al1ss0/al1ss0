@@ -106,7 +106,7 @@ I'm a Computer Science student passionate about technology and continuous learni
 <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200"
+    height="250"
     style="padding-right: 10px;" 
     src="https://github-stats-extended.vercel.app/api/top-langs?username=al1ss0&langs_count=5&theme=tokyonight" 
 />
